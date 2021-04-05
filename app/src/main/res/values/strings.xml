@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VideoApp</string>
+    <string name="start">Start</string>
+    <string name="cancel">Cancel</string>
+    <string name="play">Play</string>
+    <string name="pause">Pause</string>
+    <string name="resume">Resume</string>
+    <string name="download">Download</string>
+
+</resources>
